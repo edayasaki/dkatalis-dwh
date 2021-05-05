@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # DWH Coding Challenge
 
 ## Resources
@@ -39,3 +40,6 @@ to deploy and run your code inside a Docker container.
 Please also include a `README.md` inside the `solution` directory to give a summary of your submitted solution,
 the thinking behind your implemented solution, and how to run your solution end-to-end in a Docker container to get the desired result as stated above. 
 
+=======
+"# dkatalis-dwh" 
+>>>>>>> 31cf13befe875641e83d99a4dcb1e03725a83ec5
